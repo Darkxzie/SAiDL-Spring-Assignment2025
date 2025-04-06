@@ -13,3 +13,5 @@ Welcome to the repository for the SAiDL Spring Assignment 2025! This project is 
 ## Overview
 
 The goal of this assignment is to demonstrate understanding and practical application of key concepts in artificial intelligence and deep learning.
+
+RUN ALL CODE BLOCKS ONE BY ONE IN THE .ipynb FILE FOR PROPER WORKING.
